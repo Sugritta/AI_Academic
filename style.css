@@ -318,6 +318,11 @@
             opacity: 0.8;
         }
 
+        a:hover {
+            transform: scale(1.1);
+        }
+
+
         a i {
             transition: transform 0.3s ease;
         }
